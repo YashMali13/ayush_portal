@@ -1,0 +1,16 @@
+.navigation-bar {
+    display: flex;
+    justify-content: space-around;
+    background-color: #333;
+    padding: 1rem;
+  }
+  
+  .navigation-bar a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .navigation-bar a:hover {
+    text-decoration: underline;
+  }
+  
