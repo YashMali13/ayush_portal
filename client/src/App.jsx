@@ -2,7 +2,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import NavigationBar from "./components/NavigationBar";
-import Dashboard from "./components/Dashboard/Dashboard";
+import Dashboard from "./components/Dashboard/Home";
 import StartupsPage from "./components/Startup/Startups";
 import MentorsPage from "./components/Mentors/Mentors";
 import InvestorsPage from "./components/Investor/Investors";

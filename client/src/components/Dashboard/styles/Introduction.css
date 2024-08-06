@@ -1,0 +1,18 @@
+/* src/components/Introduction.css */
+.introduction {
+  padding: 50px 20px;
+  text-align: center;
+  background-color: #e8f4f8;
+}
+
+.introduction h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.introduction p {
+  font-size: 18px;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+}

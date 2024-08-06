@@ -5,7 +5,7 @@ import "../styles/NavigationBar.css";
 function NavigationBar() {
   return (
     <nav className="navigation-bar">
-      <Link to="/">Dashboard</Link>
+      <Link to="/">Home</Link>
       <Link to="/startups">Startups</Link>
       <Link to="/mentors">Mentors</Link>
       <Link to="/investors">Investors</Link>
