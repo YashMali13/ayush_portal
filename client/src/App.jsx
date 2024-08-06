@@ -2,12 +2,12 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import NavigationBar from "./components/NavigationBar";
-import Dashboard from "./components/Dashboard";
-import StartupsPage from "./components/Startups";
-import MentorsPage from "./components/Mentors";
-import InvestorsPage from "./components/Investors";
-import LoginPage from "./components/Login";
-import RegisterPage from "./components/Register";
+import Dashboard from "./components/Dashboard/Dashboard";
+import StartupsPage from "./components/Startup/Startups";
+import MentorsPage from "./components/Mentors/Mentors";
+import InvestorsPage from "./components/Investor/Investors";
+import LoginPage from "./components/Login/Login";
+import RegisterPage from "./components/Login/Register";
 import "./App.css";
 
 function App() {

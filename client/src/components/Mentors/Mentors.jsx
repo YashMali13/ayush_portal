@@ -1,5 +1,5 @@
-import React from 'react';
-import '../styles/Mentors.css';
+import React from "react";
+import "../../styles/Mentors.css";
 
 function Mentors() {
   return (

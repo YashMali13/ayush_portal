@@ -1,10 +1,10 @@
-import React from 'react';
-import '../styles/Login.css';
+import React from "react";
+import "../../styles/Register.css";
 
-function Login() {
+function Register() {
   return (
-    <div className="login">
-      <h1>Login</h1>
+    <div className="register">
+      <h1>Register</h1>
       <form>
         <div>
           <label htmlFor="username">Username:</label>
@@ -14,10 +14,14 @@ function Login() {
           <label htmlFor="password">Password:</label>
           <input type="password" id="password" name="password" />
         </div>
-        <button type="submit">Login</button>
+        <div>
+          <label htmlFor="email">Email:</label>
+          <input type="email" id="email" name="email" />
+        </div>
+        <button type="submit">Register</button>
       </form>
     </div>
   );
 }
 
-export default Login;
+export default Register;

@@ -1,5 +1,5 @@
-import React from 'react';
-import '../styles/Investors.css';
+import React from "react";
+import "../../styles/Investors.css";
 
 function Investors() {
   return (

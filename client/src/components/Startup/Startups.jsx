@@ -1,5 +1,5 @@
-import React from 'react';
-import '../styles/Startups.css';
+import React from "react";
+import "../../styles/Startups.css";
 
 function Startups() {
   return (
