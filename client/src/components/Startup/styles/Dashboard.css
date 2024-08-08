@@ -1,0 +1,18 @@
+.dashboard {
+  margin-bottom: 2rem;
+}
+
+.dashboard p {
+  font-size: 1rem;
+}
+
+.metrics ul,
+.recent-activities ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.metrics li,
+.recent-activities li {
+  margin: 0.5rem 0;
+}
