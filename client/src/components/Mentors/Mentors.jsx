@@ -5,7 +5,7 @@ function Mentors() {
   return (
     <div className="mentors">
       <h1>Mentors</h1>
-      <p>List of mentors will be displayed here.</p>
+      <p>yash</p>
     </div>
   );
 }
