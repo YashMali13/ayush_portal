@@ -84,7 +84,7 @@ const Mentors = () => {
         {
             name: 'abc',
             image: 'path_to_image2',
-            description: 'Hi! It\'s been a great experience to work with Terasology as it has made me stand and explore about myself.',
+            description: 'perience to work with Terasology as it has made me stand and explore about myself.',
             roles: ['Web Design', 'Outreach', 'Testing', 'World Generation'],
         },
         {
