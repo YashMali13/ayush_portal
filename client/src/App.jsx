@@ -5,7 +5,7 @@ import NavigationBar from "./components/NavigationBar";
 import Dashboard from "./components/Dashboard/Home";
 import StartupsPage from "./components/Startup/Startups";
 import MentorsPage from "./components/Mentors/Mentors";
-import InvestorsPage from "./components/Investor/Investors";
+import InvestorsPage from "./components/Investor/InvestorsList";
 import LoginPage from "./components/Login/Login";
 import RegisterPage from "./components/Login/Register";
 import "./App.css";
