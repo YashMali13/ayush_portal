@@ -1,0 +1,48 @@
+/* InvestorsList.css */
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.card-link {
+  text-decoration: none; /* Removes the default underline from links */
+  color: inherit; /* Keeps the text color same as the surrounding elements */
+}
+
+.card {
+  width: 250px;
+  padding: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  background-color: #fff;
+  text-align: center;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.details {
+  padding: 10px;
+}
+
+.name {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.location {
+  color: #777;
+  font-size: 14px;
+}
+
+.description {
+  margin-top: 10px;
+  font-size: 12px;
+  color: #555;
+}
